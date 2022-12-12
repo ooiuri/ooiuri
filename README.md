@@ -3,7 +3,7 @@
 
 🤖 23y loving robots & building solutions
 
-⚽ I'm currently member of [EDROM - Mobile Robotics Team](https://github.com/edromufu) developing a Humanoid Soccer Robot.
+⚽ I'm currently a member of [EDROM - Mobile Robotics Team](https://github.com/edromufu) developing a Humanoid Soccer Robot.
 
 Lately I've been delving into the area of mobile robotics, mainly using ROS, C++, Python and developing circuits for embedded devices.
 
